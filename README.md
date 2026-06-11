@@ -64,7 +64,7 @@ password="your_password"
 ### 3. Run the Application
 
 ```bash
-python food_booking.py
+python OnlineFoodBooking.py
 ```
 
 ## Learning Outcomes
